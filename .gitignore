@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Bar do Jonas: private business records and generated local state
+data/private/
+data/coleta/vendas_diarias.csv
+output/
+*.sqlite3
+*.sqlite3-journal
+*.xlsx
+*.xls

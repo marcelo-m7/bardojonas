@@ -1,0 +1,60 @@
+source_sheet,source_row,sku,nome_produto,categoria,marca,volume_ml,unidade_comercial,fornecedor,quantidade_packs,unidades_por_pack,unidades_compradas,preco_pack_brl,custo_compra_brl,preco_venda_unitario_brl,receita_potencial_brl,margem_potencial_brl
+NOVEMBRO,17,brahma-1000ml,BRAHMA 1 LITRO,cerveja,Brahma,1000,embalagem,Ambev,27,12,324,72.00,1944.00,9.00,2916.00,972.00
+NOVEMBRO,18,brahma-600ml,BRAHMA 600ML,cerveja,Brahma,600,embalagem,Ambev,16,24,384,114.00,1824.00,6.50,2496.00,672.00
+NOVEMBRO,19,brahma-473ml,BRAHMA 473ML,cerveja,Brahma,473,embalagem,Ambev,13,12,156,35.00,455.00,5.00,780.00,325.00
+NOVEMBRO,20,brahma-zero-350ml,BRAHMA ZERO 350ML (12),cerveja,Brahma,350,embalagem,Ambev,3,12,36,36.30,108.90,4.50,162.00,53.10
+NOVEMBRO,21,brahma-300ml,BRAHMA 300ML,cerveja,Brahma,300,embalagem,Ambev,2,24,48,49.00,98.00,4.00,192.00,94.00
+NOVEMBRO,22,skol-1000ml,SKOL 1 LITRO,cerveja,Skol,1000,embalagem,Ambev,7,12,84,60.40,422.80,8.50,714.00,291.20
+NOVEMBRO,23,skol-600ml,SKOL 600ML,cerveja,Skol,600,embalagem,Ambev,4,24,96,109.40,437.60,6.50,624.00,186.40
+NOVEMBRO,24,skol-300ml,SKOL 300ML,cerveja,Skol,300,embalagem,Ambev,1,24,24,49.00,49.00,4.00,96.00,47.00
+NOVEMBRO,25,sub-zero-1000ml,SUB-ZERO 1 LITRO,cerveja,Sub-Zero,1000,embalagem,Ambev,7,12,84,58.20,407.40,7.50,630.00,222.60
+NOVEMBRO,26,bohemia-990ml,BOHEMIA 990ML,cerveja,Bohemia,990,embalagem,Ambev,1,12,12,61.00,61.00,9.00,108.00,47.00
+NOVEMBRO,27,bohemia-600ml,BOHEMIA 600ML,cerveja,Bohemia,600,embalagem,Ambev,8,24,192,100.00,800.00,6.50,1248.00,448.00
+NOVEMBRO,28,caracu-350ml,CARACU 350ML,cerveja,Caracu,350,embalagem,Ambev,4,12,48,36.60,146.40,5.00,240.00,93.60
+NOVEMBRO,29,brahma-1000ml,BRAHMA 1 LITRO,cerveja,Brahma,1000,embalagem,Resistência Distribuidora,20,12,240,72.00,1440.00,9.00,2160.00,720.00
+NOVEMBRO,30,brahma-473ml,BRAHMA 473ML,cerveja,Brahma,473,embalagem,Resistência Distribuidora,5,12,60,35.00,175.00,5.00,300.00,125.00
+NOVEMBRO,31,brahma-350ml,BRAHMA 350ML (18),cerveja,Brahma,350,embalagem,Extra Distribuidora,7,18,126,40.50,283.50,3.50,441.00,157.50
+NOVEMBRO,32,brahma-300ml,BRAHMA 300ML,cerveja,Brahma,300,embalagem,Resistência Distribuidora,6,24,144,49.00,294.00,4.00,576.00,282.00
+NOVEMBRO,33,skol-1000ml,SKOL 1 LITRO,cerveja,Skol,1000,embalagem,Resistência Distribuidora,1,12,12,63.00,63.00,8.50,102.00,39.00
+NOVEMBRO,34,skol-300ml,SKOL 300ML,cerveja,Skol,300,embalagem,Resistência Distribuidora,2,24,48,49.00,98.00,4.00,192.00,94.00
+NOVEMBRO,40,devassa-p-m-1000ml,DEVASSA P.M. 1 LITRO,cerveja,Devassa,1000,embalagem,Lippaus Distribuidora,22,12,264,71.00,1562.00,9.00,2376.00,814.00
+NOVEMBRO,41,devassa-p-m-473ml,DEVASSA P.M. 473ML,cerveja,Devassa,473,embalagem,Lippaus Distribuidora,4,12,48,36.00,144.00,5.00,240.00,96.00
+NOVEMBRO,42,devassa-p-m-1000ml,DEVASSA P.M. 1 LITRO,cerveja,Devassa,1000,embalagem,Forte Distribuidora,1,12,12,74.00,74.00,9.00,108.00,34.00
+NOVEMBRO,43,devassa-p-m-1000ml,DEVASSA P.M. 1 LITRO,cerveja,Devassa,1000,embalagem,Fornecedor local A,2,12,24,72.00,144.00,9.00,216.00,72.00
+NOVEMBRO,44,heineken-600ml,HEINEKEN 600ML (12),cerveja,Heineken,600,embalagem,Extra Distribuidora,27,12,324,95.00,2565.00,10.00,3240.00,675.00
+NOVEMBRO,45,heineken-330ml,HEINEKEN 330ML (6),cerveja,Heineken,330,embalagem,Extra Distribuidora,13,6,78,24.00,312.00,7.50,585.00,273.00
+NOVEMBRO,46,coca-cola-2000ml,COCA-COLA 2 LITROS,refrigerante,,2000,embalagem,Extra Distribuidora,27,6,162,36.00,972.00,8.00,1296.00,324.00
+NOVEMBRO,47,coca-cola-600ml,COCA-COLA 600ML,refrigerante,,600,embalagem,Extra Distribuidora,3,12,36,48.00,144.00,5.00,180.00,36.00
+NOVEMBRO,48,fanta-laranja-2000ml,FANTA LARANJA 2 LITROS,refrigerante,,2000,embalagem,Extra Distribuidora,1,6,6,32.00,32.00,8.00,48.00,16.00
+NOVEMBRO,49,fanta-uva-2000ml,FANTA UVA 2 LITROS,refrigerante,,2000,embalagem,Extra Distribuidora,1,6,6,32.00,32.00,8.00,48.00,16.00
+NOVEMBRO,50,coca-cola-2000ml,COCA-COLA 2 LITROS,refrigerante,,2000,embalagem,Fornecedor local A,5,6,30,35.00,175.00,8.00,240.00,65.00
+NOVEMBRO,51,coca-cola-2000ml,COCA-COLA 2 LITROS,refrigerante,,2000,embalagem,Forte Distribuidora,10,6,60,36.00,360.00,8.00,480.00,120.00
+NOVEMBRO,52,coca-cola-350ml,COCA-COLA 350ML,refrigerante,,350,embalagem,Forte Distribuidora,2,12,24,29.19,58.38,3.50,84.00,25.62
+NOVEMBRO,58,itaipava-1000ml,ITAIPAVA 1 LITRO,cerveja,Itaipava,1000,embalagem,Grupo Petrópolis,7,12,84,60.00,420.00,7.50,630.00,210.00
+NOVEMBRO,59,itaipava-473ml,ITAIPAVA 473ML,cerveja,Itaipava,473,embalagem,Grupo Petrópolis,50,12,600,27.90,1395.00,3.50,2100.00,705.00
+NOVEMBRO,60,crystal-473ml,CRYSTAL 473ML,cerveja,Crystal,473,embalagem,Grupo Petrópolis,23,12,276,25.00,575.00,3.00,828.00,253.00
+NOVEMBRO,61,lokal-600ml,LOKAL 600ML,cerveja,Lokal,600,embalagem,Grupo Petrópolis,3,24,72,60.00,180.00,4.50,324.00,144.00
+NOVEMBRO,62,petra-p-m-600ml,PETRA P. M. 600ML,cerveja,Petra,600,embalagem,Grupo Petrópolis,2,24,48,114.00,228.00,6.50,312.00,84.00
+NOVEMBRO,63,tnt-473ml,TNT 473ML,energético,TNT,473,embalagem,Grupo Petrópolis,5,4,20,22.00,110.00,10.00,200.00,90.00
+NOVEMBRO,64,tnt-269ml,TNT 269ML,energético,TNT,269,embalagem,Grupo Petrópolis,3,4,12,17.00,51.00,7.50,90.00,39.00
+NOVEMBRO,70,guarana-2000ml,GUARANÁ 2 LITROS,refrigerante,,2000,embalagem,UAI,16,6,96,18.00,288.00,5.00,480.00,192.00
+NOVEMBRO,71,guarana-600ml,GUARANÁ 600ML,refrigerante,,600,embalagem,UAI,1,12,12,20.00,20.00,3.50,42.00,22.00
+NOVEMBRO,72,guarana-250ml,GUARANÁ 250ML,refrigerante,,250,embalagem,UAI,3,12,36,11.50,34.50,2.00,72.00,37.50
+NOVEMBRO,73,cola-2000ml,COLA 2 LITROS,refrigerante,,2000,embalagem,UAI,8,6,48,18.00,144.00,5.00,240.00,96.00
+NOVEMBRO,74,cola-600ml,COLA 600ML,refrigerante,,600,embalagem,UAI,1,12,12,20.00,20.00,3.50,42.00,22.00
+NOVEMBRO,75,cola-250ml,COLA 250ML,refrigerante,,250,embalagem,UAI,2,12,24,11.50,23.00,2.00,48.00,25.00
+NOVEMBRO,76,cola-c-limao-2000ml,COLA C/ LIMÃO 2 LITROS,refrigerante,,2000,embalagem,UAI,1,6,6,18.00,18.00,5.00,30.00,12.00
+NOVEMBRO,77,uva-2000ml,UVA 2 LITROS,refrigerante,,2000,embalagem,UAI,4,6,24,18.00,72.00,5.00,120.00,48.00
+NOVEMBRO,78,uva-250ml,UVA 250ML,refrigerante,,250,embalagem,UAI,3,12,36,11.50,34.50,2.00,72.00,37.50
+NOVEMBRO,79,laranja-2000ml,LARANJA 2 LITROS,refrigerante,,2000,embalagem,UAI,4,6,24,18.00,72.00,5.00,120.00,48.00
+NOVEMBRO,80,laranja-250ml,LARANJA 250ML,refrigerante,,250,embalagem,UAI,2,12,24,11.50,23.00,2.00,48.00,25.00
+NOVEMBRO,81,limao-2000ml,LIMÃO 2 LITROS,refrigerante,,2000,embalagem,UAI,4,6,24,18.00,72.00,5.00,120.00,48.00
+NOVEMBRO,82,limao-250ml,LIMÃO 250ML,refrigerante,,250,embalagem,UAI,2,12,24,11.50,23.00,2.00,48.00,25.00
+NOVEMBRO,88,guarana-coroa-2000ml,GUARANÁ COROA 2 LITROS (8),refrigerante,,2000,embalagem,COROA,4,8,32,23.92,95.68,5.00,160.00,64.32
+NOVEMBRO,89,agua-s-gas-campino,ÁGUA S/ GÁS CAMPINO,água,Campino,,embalagem,COROA,1,12,12,8.50,8.50,2.00,24.00,15.50
+NOVEMBRO,90,agua-c-gas-campino,ÁGUA C/ GÁS CAMPINO,água,Campino,,embalagem,COROA,2,12,24,16.90,33.80,2.50,60.00,26.20
+NOVEMBRO,96,cachaca-pura-amarela-5000ml,CACHAÇA PURA/AMARELA 5 LITROS,destilado,Cachaça,5000,porcao_volume_indefinido,Fornecedor local B,40,70,2800,22.00,880.00,1.50,4200.00,3320.00
+NOVEMBRO,97,cachaca-cerejeira-5000ml,CACHAÇA CEREJEIRA 5 LITROS,destilado,Cachaça,5000,porcao_volume_indefinido,Fornecedor local B,24,70,1680,30.00,720.00,2.00,3360.00,2640.00
+NOVEMBRO,98,cachaca-sb-fio-de-ouro-1000ml,CACHAÇA SB/FIO DE OURO 1 LITRO,destilado,Cachaça,1000,embalagem,Fornecedor local B,2,12,24,55.00,110.00,9.00,216.00,106.00
+NOVEMBRO,99,cachaca-500ml-barrigudinha,CACHAÇA 500ML/BARRIGUDINHA,destilado,Cachaça,500,embalagem,Fornecedor local B,30,12,360,33.00,990.00,4.50,1620.00,630.00
+NOVEMBRO,100,cachaca-300ml-meiota,CACHAÇA 300ML/MEIOTA,destilado,Cachaça,300,embalagem,Fornecedor local B,4,24,96,45.00,180.00,3.00,288.00,108.00
