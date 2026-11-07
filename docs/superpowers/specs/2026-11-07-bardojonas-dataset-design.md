@@ -1,7 +1,7 @@
 # Bar do Jonas — Dataset e Análise Académica (desenho aprovado)
 
-**Data:** 2026-11-07  
-**Responsável:** Marcelo Santos  
+**Data:** 2026-11-07
+**Responsável:** Marcelo Santos
 **Repositório:** `marcelo-m7/bardojonas`
 
 ## Objetivo
